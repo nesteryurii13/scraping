@@ -17,7 +17,7 @@ The first-screen headline, country badges, navigation, quote form and delivery s
 - Geographic map and destination links: `src/components/CoverageMap.tsx`, rebuilt by `scripts/build-coverage-map.mjs`
 - Scroll reveals, photo parallax and cursor effects: `src/components/MotionEffects.tsx`
 
-If you add or rename form fields, update `public/__forms.html` too. Netlify reads that file to learn the form's fields.
+If you add or rename form fields, update `public/__forms.html` too. Netlify reads that file to learn the form's fields. Also update the sheet columns: `FIELDS` and `HEADERS` in `netlify/functions/submission-created.mts` (existing sheet rows keep their old layout).
 
 The visual design uses warm ivory, charcoal and lime, with large sans-serif and italic serif headings, a layered photographic hero, four use-case cards, a dark four-step process, a separate quote form, a USA/Canada map and a compact footer. Motion includes staggered headline reveals, a hero photo zoom, scroll reveals, gentle photo parallax, pointer-responsive use-case cards and button arrows, FAQ transitions and a page-progress indicator. The hero's **Replay animations** button repeats its entrance and resets the section reveals for the next scroll through the page. The entrance waits for the hero image to decode, so its animation is visible even when the image takes longer to load.
 
@@ -59,11 +59,29 @@ The build outputs static files to `out/` (configured in `netlify.toml`).
 1. Run `npm run build`.
 2. Netlify → *Add new site* → *Deploy manually* → drag the `out/` folder in.
 
+Drag-and-drop deploys only static files, so they skip `netlify/functions/` and leads are not copied to Google Sheets. Use Option A (or `netlify deploy`) for that.
+
 ## After the first deploy
 
 1. Netlify → your site → **Forms** → enable form detection if prompted, then redeploy once.
 2. You should see a form named **`lead`**. Submissions appear there.
 3. For email alerts: **Site configuration → Notifications → Emails and webhooks → Form submission notifications → Add notification → Email**.
+
+## Google Sheets lead log
+
+Each lead that passes Netlify's spam filter is also added as a row to a Google Sheet. `netlify/functions/submission-created.mts` runs after every verified submission and appends the lead through the Google Sheets API as a service account. Leads go to their own tab (`Leads` by default), which is created with a header row on the first lead. Values are stored exactly as typed, never as formulas. Netlify Forms still keeps every submission, so a sheet outage loses nothing; failures appear in Netlify's function logs. Visitor IP addresses and browser details are not copied to the sheet.
+
+One-time setup:
+
+1. Use a Google Cloud service account with the Google Sheets API enabled, and share the spreadsheet with its `client_email` as an **Editor**.
+2. Netlify → **Site configuration → Environment variables**, scoped to Functions:
+   - `GOOGLE_SHEET_ID`: the part of the sheet URL between `/d/` and `/edit`.
+   - `GOOGLE_SERVICE_ACCOUNT_EMAIL`: `client_email` from the service-account JSON key.
+   - `GOOGLE_PRIVATE_KEY`: `private_key` from the same key, including the `BEGIN`/`END` lines. Real line breaks or literal `\n` both work.
+   - `LEADS_SHEET_TAB` (optional): tab name, default `Leads`.
+3. Redeploy, submit a test quote on the live site and check that a row appears.
+
+Never commit the JSON key; `.env*` files are already gitignored.
 
 ## Brand assets
 
