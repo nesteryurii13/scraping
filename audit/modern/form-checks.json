@@ -1,0 +1,14 @@
+{
+  "checks": [
+    "Native fallback uses POST",
+    "Invalid numbers rejected; error associated and phone receives focus",
+    "Editing phone clears its error",
+    "Reversed dates rejected before network request",
+    "HTTP failure preserves entered details",
+    "Successful submission announces confirmation and moves focus",
+    "All optional fields included in encoded Netlify POST",
+    "Name and email alone submit successfully; reset restores input focus",
+    "Mobile navigation opens and exposes section links"
+  ],
+  "network": "Intercepted test responses; no real leads sent"
+}

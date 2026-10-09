@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><meta charset="utf-8" /><title>Forms</title></head>
+  <body>
+    <!--
+      Netlify detects forms by scanning static HTML at deploy time.
+      The React form in src/components/LeadForm.tsx posts to this file;
+      keep the form name and field names here in sync with it.
+    -->
+    <form name="lead" method="POST" action="/thanks.html" data-netlify="true" netlify-honeypot="bot-field" hidden>
+      <input type="hidden" name="form-name" value="lead" />
+      <input name="bot-field" />
+      <input name="name" />
+      <input name="company" />
+      <input name="email" type="email" />
+      <input name="phone" type="tel" />
+      <input name="quantity" type="number" />
+      <input name="rental-start" type="date" />
+      <input name="rental-end" type="date" />
+      <input name="delivery-location" />
+      <textarea name="notes"></textarea>
+    </form>
+  </body>
+</html>

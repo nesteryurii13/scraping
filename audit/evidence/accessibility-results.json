@@ -1,0 +1,55 @@
+{
+  "colors": [
+    {
+      "selector": "footer",
+      "foreground": [
+        144,
+        161,
+        185
+      ],
+      "background": [
+        15,
+        23,
+        43
+      ],
+      "ratio": 6.779314392063223
+    },
+    {
+      "selector": "main>section:last-child p",
+      "foreground": [
+        219,
+        234,
+        254
+      ],
+      "background": [
+        21,
+        93,
+        252
+      ],
+      "ratio": 4.299546256861354
+    },
+    {
+      "selector": "button[type=submit]",
+      "foreground": [
+        255,
+        255,
+        255
+      ],
+      "background": [
+        21,
+        93,
+        252
+      ],
+      "ratio": 5.245696961921662
+    }
+  ],
+  "logoFocus": {
+    "text": "💻LaptopRent",
+    "outline": "rgb(16, 16, 16) auto 1px",
+    "focusVisible": true
+  },
+  "faq": {
+    "open": true,
+    "outline": "rgb(16, 16, 16) auto 1px"
+  }
+}

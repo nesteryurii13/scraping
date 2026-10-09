@@ -1,0 +1,546 @@
+{
+  "realPhotoSources": 10,
+  "variants": [
+    {
+      "id": "team-collaboration",
+      "path": "/images/team-collaboration/9081831c41-480.avif",
+      "bytes": 8421,
+      "budget": 200000
+    },
+    {
+      "id": "team-collaboration",
+      "path": "/images/team-collaboration/9081831c41-480.webp",
+      "bytes": 15160,
+      "budget": 200000
+    },
+    {
+      "id": "team-collaboration",
+      "path": "/images/team-collaboration/9081831c41-480.jpg",
+      "bytes": 21827,
+      "budget": 200000
+    },
+    {
+      "id": "team-collaboration",
+      "path": "/images/team-collaboration/9081831c41-768.avif",
+      "bytes": 15079,
+      "budget": 200000
+    },
+    {
+      "id": "team-collaboration",
+      "path": "/images/team-collaboration/9081831c41-768.webp",
+      "bytes": 26792,
+      "budget": 200000
+    },
+    {
+      "id": "team-collaboration",
+      "path": "/images/team-collaboration/9081831c41-768.jpg",
+      "bytes": 43730,
+      "budget": 200000
+    },
+    {
+      "id": "team-collaboration",
+      "path": "/images/team-collaboration/9081831c41-1280.avif",
+      "bytes": 29663,
+      "budget": 200000
+    },
+    {
+      "id": "team-collaboration",
+      "path": "/images/team-collaboration/9081831c41-1280.webp",
+      "bytes": 53012,
+      "budget": 200000
+    },
+    {
+      "id": "team-collaboration",
+      "path": "/images/team-collaboration/9081831c41-1280.jpg",
+      "bytes": 95422,
+      "budget": 200000
+    },
+    {
+      "id": "conference",
+      "path": "/images/conference/af77f69912-400.avif",
+      "bytes": 10621,
+      "budget": 80000
+    },
+    {
+      "id": "conference",
+      "path": "/images/conference/af77f69912-400.webp",
+      "bytes": 17688,
+      "budget": 80000
+    },
+    {
+      "id": "conference",
+      "path": "/images/conference/af77f69912-400.jpg",
+      "bytes": 24419,
+      "budget": 80000
+    },
+    {
+      "id": "conference",
+      "path": "/images/conference/af77f69912-640.avif",
+      "bytes": 21163,
+      "budget": 80000
+    },
+    {
+      "id": "conference",
+      "path": "/images/conference/af77f69912-640.webp",
+      "bytes": 35290,
+      "budget": 80000
+    },
+    {
+      "id": "conference",
+      "path": "/images/conference/af77f69912-640.jpg",
+      "bytes": 51745,
+      "budget": 80000
+    },
+    {
+      "id": "conference",
+      "path": "/images/conference/af77f69912-960.avif",
+      "bytes": 36810,
+      "budget": 80000
+    },
+    {
+      "id": "conference",
+      "path": "/images/conference/af77f69912-960.webp",
+      "bytes": 60370,
+      "budget": 80000
+    },
+    {
+      "id": "conference",
+      "path": "/images/conference/af77f69912-960.jpg",
+      "bytes": 71595,
+      "budget": 80000
+    },
+    {
+      "id": "training",
+      "path": "/images/training/aee1457b95-400.avif",
+      "bytes": 13461,
+      "budget": 80000
+    },
+    {
+      "id": "training",
+      "path": "/images/training/aee1457b95-400.webp",
+      "bytes": 21754,
+      "budget": 80000
+    },
+    {
+      "id": "training",
+      "path": "/images/training/aee1457b95-400.jpg",
+      "bytes": 27842,
+      "budget": 80000
+    },
+    {
+      "id": "training",
+      "path": "/images/training/aee1457b95-640.avif",
+      "bytes": 25901,
+      "budget": 80000
+    },
+    {
+      "id": "training",
+      "path": "/images/training/aee1457b95-640.webp",
+      "bytes": 43914,
+      "budget": 80000
+    },
+    {
+      "id": "training",
+      "path": "/images/training/aee1457b95-640.jpg",
+      "bytes": 59092,
+      "budget": 80000
+    },
+    {
+      "id": "training",
+      "path": "/images/training/aee1457b95-960.avif",
+      "bytes": 44604,
+      "budget": 80000
+    },
+    {
+      "id": "training",
+      "path": "/images/training/aee1457b95-960.webp",
+      "bytes": 75496,
+      "budget": 80000
+    },
+    {
+      "id": "training",
+      "path": "/images/training/aee1457b95-960.jpg",
+      "bytes": 73505,
+      "budget": 80000
+    },
+    {
+      "id": "office-workspace",
+      "path": "/images/office-workspace/4cabc7a476-400.avif",
+      "bytes": 7997,
+      "budget": 80000
+    },
+    {
+      "id": "office-workspace",
+      "path": "/images/office-workspace/4cabc7a476-400.webp",
+      "bytes": 15156,
+      "budget": 80000
+    },
+    {
+      "id": "office-workspace",
+      "path": "/images/office-workspace/4cabc7a476-400.jpg",
+      "bytes": 21194,
+      "budget": 80000
+    },
+    {
+      "id": "office-workspace",
+      "path": "/images/office-workspace/4cabc7a476-640.avif",
+      "bytes": 16047,
+      "budget": 80000
+    },
+    {
+      "id": "office-workspace",
+      "path": "/images/office-workspace/4cabc7a476-640.webp",
+      "bytes": 30282,
+      "budget": 80000
+    },
+    {
+      "id": "office-workspace",
+      "path": "/images/office-workspace/4cabc7a476-640.jpg",
+      "bytes": 45641,
+      "budget": 80000
+    },
+    {
+      "id": "office-workspace",
+      "path": "/images/office-workspace/4cabc7a476-960.avif",
+      "bytes": 27472,
+      "budget": 80000
+    },
+    {
+      "id": "office-workspace",
+      "path": "/images/office-workspace/4cabc7a476-960.webp",
+      "bytes": 52520,
+      "budget": 80000
+    },
+    {
+      "id": "office-workspace",
+      "path": "/images/office-workspace/4cabc7a476-960.jpg",
+      "bytes": 74019,
+      "budget": 80000
+    },
+    {
+      "id": "remote-work",
+      "path": "/images/remote-work/1fa29a7953-400.avif",
+      "bytes": 10532,
+      "budget": 80000
+    },
+    {
+      "id": "remote-work",
+      "path": "/images/remote-work/1fa29a7953-400.webp",
+      "bytes": 20140,
+      "budget": 80000
+    },
+    {
+      "id": "remote-work",
+      "path": "/images/remote-work/1fa29a7953-400.jpg",
+      "bytes": 26733,
+      "budget": 80000
+    },
+    {
+      "id": "remote-work",
+      "path": "/images/remote-work/1fa29a7953-640.avif",
+      "bytes": 17976,
+      "budget": 80000
+    },
+    {
+      "id": "remote-work",
+      "path": "/images/remote-work/1fa29a7953-640.webp",
+      "bytes": 35966,
+      "budget": 80000
+    },
+    {
+      "id": "remote-work",
+      "path": "/images/remote-work/1fa29a7953-640.jpg",
+      "bytes": 53519,
+      "budget": 80000
+    },
+    {
+      "id": "remote-work",
+      "path": "/images/remote-work/1fa29a7953-960.avif",
+      "bytes": 30083,
+      "budget": 80000
+    },
+    {
+      "id": "remote-work",
+      "path": "/images/remote-work/1fa29a7953-960.webp",
+      "bytes": 58736,
+      "budget": 80000
+    },
+    {
+      "id": "remote-work",
+      "path": "/images/remote-work/1fa29a7953-960.jpg",
+      "bytes": 73527,
+      "budget": 80000
+    },
+    {
+      "id": "software-work",
+      "path": "/images/software-work/4b34f6f10e-480.avif",
+      "bytes": 8984,
+      "budget": 80000
+    },
+    {
+      "id": "software-work",
+      "path": "/images/software-work/4b34f6f10e-480.webp",
+      "bytes": 14552,
+      "budget": 80000
+    },
+    {
+      "id": "software-work",
+      "path": "/images/software-work/4b34f6f10e-480.jpg",
+      "bytes": 21131,
+      "budget": 80000
+    },
+    {
+      "id": "software-work",
+      "path": "/images/software-work/4b34f6f10e-768.avif",
+      "bytes": 16152,
+      "budget": 80000
+    },
+    {
+      "id": "software-work",
+      "path": "/images/software-work/4b34f6f10e-768.webp",
+      "bytes": 26332,
+      "budget": 80000
+    },
+    {
+      "id": "software-work",
+      "path": "/images/software-work/4b34f6f10e-768.jpg",
+      "bytes": 40350,
+      "budget": 80000
+    },
+    {
+      "id": "software-work",
+      "path": "/images/software-work/4b34f6f10e-1280.avif",
+      "bytes": 30001,
+      "budget": 80000
+    },
+    {
+      "id": "software-work",
+      "path": "/images/software-work/4b34f6f10e-1280.webp",
+      "bytes": 48046,
+      "budget": 80000
+    },
+    {
+      "id": "software-work",
+      "path": "/images/software-work/4b34f6f10e-1280.jpg",
+      "bytes": 69028,
+      "budget": 80000
+    },
+    {
+      "id": "portable-laptop",
+      "path": "/images/portable-laptop/29212beeaf-400.avif",
+      "bytes": 3450,
+      "budget": 80000
+    },
+    {
+      "id": "portable-laptop",
+      "path": "/images/portable-laptop/29212beeaf-400.webp",
+      "bytes": 4954,
+      "budget": 80000
+    },
+    {
+      "id": "portable-laptop",
+      "path": "/images/portable-laptop/29212beeaf-400.jpg",
+      "bytes": 11224,
+      "budget": 80000
+    },
+    {
+      "id": "portable-laptop",
+      "path": "/images/portable-laptop/29212beeaf-640.avif",
+      "bytes": 5883,
+      "budget": 80000
+    },
+    {
+      "id": "portable-laptop",
+      "path": "/images/portable-laptop/29212beeaf-640.webp",
+      "bytes": 8930,
+      "budget": 80000
+    },
+    {
+      "id": "portable-laptop",
+      "path": "/images/portable-laptop/29212beeaf-640.jpg",
+      "bytes": 22306,
+      "budget": 80000
+    },
+    {
+      "id": "portable-laptop",
+      "path": "/images/portable-laptop/29212beeaf-960.avif",
+      "bytes": 9308,
+      "budget": 80000
+    },
+    {
+      "id": "portable-laptop",
+      "path": "/images/portable-laptop/29212beeaf-960.webp",
+      "bytes": 14878,
+      "budget": 80000
+    },
+    {
+      "id": "portable-laptop",
+      "path": "/images/portable-laptop/29212beeaf-960.jpg",
+      "bytes": 40969,
+      "budget": 80000
+    },
+    {
+      "id": "business-laptop",
+      "path": "/images/business-laptop/c0dbe70a09-400.avif",
+      "bytes": 2787,
+      "budget": 80000
+    },
+    {
+      "id": "business-laptop",
+      "path": "/images/business-laptop/c0dbe70a09-400.webp",
+      "bytes": 3982,
+      "budget": 80000
+    },
+    {
+      "id": "business-laptop",
+      "path": "/images/business-laptop/c0dbe70a09-400.jpg",
+      "bytes": 8746,
+      "budget": 80000
+    },
+    {
+      "id": "business-laptop",
+      "path": "/images/business-laptop/c0dbe70a09-640.avif",
+      "bytes": 5022,
+      "budget": 80000
+    },
+    {
+      "id": "business-laptop",
+      "path": "/images/business-laptop/c0dbe70a09-640.webp",
+      "bytes": 7828,
+      "budget": 80000
+    },
+    {
+      "id": "business-laptop",
+      "path": "/images/business-laptop/c0dbe70a09-640.jpg",
+      "bytes": 18216,
+      "budget": 80000
+    },
+    {
+      "id": "business-laptop",
+      "path": "/images/business-laptop/c0dbe70a09-960.avif",
+      "bytes": 8563,
+      "budget": 80000
+    },
+    {
+      "id": "business-laptop",
+      "path": "/images/business-laptop/c0dbe70a09-960.webp",
+      "bytes": 17080,
+      "budget": 80000
+    },
+    {
+      "id": "business-laptop",
+      "path": "/images/business-laptop/c0dbe70a09-960.jpg",
+      "bytes": 39157,
+      "budget": 80000
+    },
+    {
+      "id": "project-laptop",
+      "path": "/images/project-laptop/6615f15502-400.avif",
+      "bytes": 1668,
+      "budget": 80000
+    },
+    {
+      "id": "project-laptop",
+      "path": "/images/project-laptop/6615f15502-400.webp",
+      "bytes": 2684,
+      "budget": 80000
+    },
+    {
+      "id": "project-laptop",
+      "path": "/images/project-laptop/6615f15502-400.jpg",
+      "bytes": 5291,
+      "budget": 80000
+    },
+    {
+      "id": "project-laptop",
+      "path": "/images/project-laptop/6615f15502-640.avif",
+      "bytes": 2885,
+      "budget": 80000
+    },
+    {
+      "id": "project-laptop",
+      "path": "/images/project-laptop/6615f15502-640.webp",
+      "bytes": 5070,
+      "budget": 80000
+    },
+    {
+      "id": "project-laptop",
+      "path": "/images/project-laptop/6615f15502-640.jpg",
+      "bytes": 10436,
+      "budget": 80000
+    },
+    {
+      "id": "project-laptop",
+      "path": "/images/project-laptop/6615f15502-960.avif",
+      "bytes": 4854,
+      "budget": 80000
+    },
+    {
+      "id": "project-laptop",
+      "path": "/images/project-laptop/6615f15502-960.webp",
+      "bytes": 9098,
+      "budget": 80000
+    },
+    {
+      "id": "project-laptop",
+      "path": "/images/project-laptop/6615f15502-960.jpg",
+      "bytes": 19132,
+      "budget": 80000
+    },
+    {
+      "id": "workshop-desk",
+      "path": "/images/workshop-desk/84634dfec5-400.avif",
+      "bytes": 6294,
+      "budget": 80000
+    },
+    {
+      "id": "workshop-desk",
+      "path": "/images/workshop-desk/84634dfec5-400.webp",
+      "bytes": 10654,
+      "budget": 80000
+    },
+    {
+      "id": "workshop-desk",
+      "path": "/images/workshop-desk/84634dfec5-400.jpg",
+      "bytes": 16194,
+      "budget": 80000
+    },
+    {
+      "id": "workshop-desk",
+      "path": "/images/workshop-desk/84634dfec5-640.avif",
+      "bytes": 12482,
+      "budget": 80000
+    },
+    {
+      "id": "workshop-desk",
+      "path": "/images/workshop-desk/84634dfec5-640.webp",
+      "bytes": 20434,
+      "budget": 80000
+    },
+    {
+      "id": "workshop-desk",
+      "path": "/images/workshop-desk/84634dfec5-640.jpg",
+      "bytes": 33389,
+      "budget": 80000
+    },
+    {
+      "id": "workshop-desk",
+      "path": "/images/workshop-desk/84634dfec5-960.avif",
+      "bytes": 21469,
+      "budget": 80000
+    },
+    {
+      "id": "workshop-desk",
+      "path": "/images/workshop-desk/84634dfec5-960.webp",
+      "bytes": 35968,
+      "budget": 80000
+    },
+    {
+      "id": "workshop-desk",
+      "path": "/images/workshop-desk/84634dfec5-960.jpg",
+      "bytes": 61953,
+      "budget": 80000
+    }
+  ],
+  "obsoleteAiAssetsInExport": 0
+}

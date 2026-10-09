@@ -1,0 +1,107 @@
+[
+  {
+    "id": "team-collaboration",
+    "photo": "photo-1522071820081-009f0129c71c",
+    "photographer": "Annie Spratt",
+    "source": "https://unsplash.com/photos/QckxruozjRg",
+    "alt": "Colleagues working together around laptops at a shared table",
+    "ratio": 1.9,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "budget": 200000
+  },
+  {
+    "id": "conference",
+    "photo": "photo-1561489396-888724a1543d",
+    "photographer": "Evangeline Shaw",
+    "source": "https://unsplash.com/photos/nwLTVwb7DbU",
+    "alt": "Attendees gathered in a conference venue",
+    "ratio": 1.2,
+    "widths": [
+      400,
+      640,
+      960
+    ],
+    "budget": 80000
+  },
+  {
+    "id": "training",
+    "photo": "photo-1778877035089-c80dcb877f45",
+    "photographer": "Ufoma Ojo",
+    "source": "https://unsplash.com/photos/ni_rnT7obJg",
+    "alt": "Participants watching a presentation in a training room",
+    "ratio": 1.2,
+    "widths": [
+      400,
+      640,
+      960
+    ],
+    "budget": 80000
+  },
+  {
+    "id": "office-workspace",
+    "photo": "photo-1519086588705-c935fdedcc14",
+    "photographer": "Kari Shea",
+    "source": "https://unsplash.com/photos/vGgaESc2M1Y",
+    "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+    "ratio": 1.2,
+    "widths": [
+      400,
+      640,
+      960
+    ],
+    "budget": 80000
+  },
+  {
+    "id": "remote-work",
+    "photo": "photo-1588196749597-9ff075ee6b5b",
+    "photographer": "Chris Montgomery",
+    "source": "https://unsplash.com/photos/smgTvepind4",
+    "alt": "Laptop displaying a video meeting on a home desk",
+    "ratio": 1.2,
+    "widths": [
+      400,
+      640,
+      960
+    ],
+    "budget": 80000
+  },
+  {
+    "id": "workshop-desk",
+    "photo": "photo-1720339688434-8b7653803582",
+    "photographer": "Manix Troy",
+    "source": "https://unsplash.com/photos/t_ed_gFI-A0",
+    "alt": "Open laptop beside books and a phone on a white desk",
+    "crop": {
+      "left": 0,
+      "top": 1250,
+      "width": 2000,
+      "height": 1333
+    },
+    "ratio": 1.5,
+    "widths": [
+      400,
+      640,
+      960
+    ],
+    "budget": 80000
+  },
+  {
+    "id": "hero-laptop",
+    "original": "hero-studio.jpg",
+    "photo": "photo-1651614422674-1f51818f27b1",
+    "photographer": "dlxmedia.hu",
+    "source": "https://unsplash.com/photos/Vv-COf1Oet8",
+    "alt": "Two closed silver laptops stacked on a light studio surface",
+    "ratio": 1.9,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "budget": 120000
+  }
+]

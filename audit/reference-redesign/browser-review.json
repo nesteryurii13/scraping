@@ -1,0 +1,562 @@
+[
+  {
+    "width": 375,
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 5287,
+    "images": [
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-480.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 311.4412841796875
+      },
+      {
+        "alt": "Open laptop beside books and a phone on a white desk",
+        "loaded": true,
+        "currentSrc": "/images/workshop-desk/84634dfec5-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 115.11659240722656
+      },
+      {
+        "alt": "Two closed silver laptops stacked on a light studio surface",
+        "loaded": true,
+        "currentSrc": "/images/hero-laptop/3906587bf0-480.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 345.046875
+      },
+      {
+        "alt": "Attendees gathered in a conference venue",
+        "loaded": true,
+        "currentSrc": "/images/conference/af77f69912-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 158.5
+      },
+      {
+        "alt": "Participants watching a presentation in a training room",
+        "loaded": true,
+        "currentSrc": "/images/training/aee1457b95-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 158.5
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 158.5
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 158.5
+      },
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-480.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 335
+      }
+    ],
+    "formTop": 2670.125,
+    "submitBottom": 3633.84375,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Laptop rentals for any occasion. USA & Canada."
+      },
+      {
+        "level": "H2",
+        "text": "Different needs.Same possibilities."
+      },
+      {
+        "level": "H3",
+        "text": "Events & conferences"
+      },
+      {
+        "level": "H3",
+        "text": "Training & workshops"
+      },
+      {
+        "level": "H3",
+        "text": "Temporary staff"
+      },
+      {
+        "level": "H3",
+        "text": "Remote teams"
+      },
+      {
+        "level": "H2",
+        "text": "You bring the plan.We’ll talk laptops."
+      },
+      {
+        "level": "H3",
+        "text": "1. Get a quote"
+      },
+      {
+        "level": "H3",
+        "text": "2. Find your setup"
+      },
+      {
+        "level": "H3",
+        "text": "3. Plan delivery"
+      },
+      {
+        "level": "H3",
+        "text": "4. You’re ready"
+      },
+      {
+        "level": "H2",
+        "text": "Get a quote.It’s quick and easy."
+      },
+      {
+        "level": "H2",
+        "text": "Request a quote"
+      },
+      {
+        "level": "H2",
+        "text": "USA & Canada.Your next destination."
+      },
+      {
+        "level": "H2",
+        "text": "A little clarity.A lot of possibility."
+      },
+      {
+        "level": "H2",
+        "text": "Let’s get to work."
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 3832,
+    "images": [
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-768.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 363.4110107421875
+      },
+      {
+        "alt": "Open laptop beside books and a phone on a white desk",
+        "loaded": true,
+        "currentSrc": "/images/workshop-desk/84634dfec5-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 126.7264404296875
+      },
+      {
+        "alt": "Two closed silver laptops stacked on a light studio surface",
+        "loaded": true,
+        "currentSrc": "/images/hero-laptop/3906587bf0-480.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 369.1875
+      },
+      {
+        "alt": "Attendees gathered in a conference venue",
+        "loaded": true,
+        "currentSrc": "/images/conference/af77f69912-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 347
+      },
+      {
+        "alt": "Participants watching a presentation in a training room",
+        "loaded": true,
+        "currentSrc": "/images/training/aee1457b95-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 347
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 347
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 347
+      },
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-768.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 720
+      }
+    ],
+    "formTop": 2121.15625,
+    "submitBottom": 2690.734375,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Laptop rentals for any occasion. USA & Canada."
+      },
+      {
+        "level": "H2",
+        "text": "Different needs.Same possibilities."
+      },
+      {
+        "level": "H3",
+        "text": "Events & conferences"
+      },
+      {
+        "level": "H3",
+        "text": "Training & workshops"
+      },
+      {
+        "level": "H3",
+        "text": "Temporary staff"
+      },
+      {
+        "level": "H3",
+        "text": "Remote teams"
+      },
+      {
+        "level": "H2",
+        "text": "You bring the plan.We’ll talk laptops."
+      },
+      {
+        "level": "H3",
+        "text": "1. Get a quote"
+      },
+      {
+        "level": "H3",
+        "text": "2. Find your setup"
+      },
+      {
+        "level": "H3",
+        "text": "3. Plan delivery"
+      },
+      {
+        "level": "H3",
+        "text": "4. You’re ready"
+      },
+      {
+        "level": "H2",
+        "text": "Get a quote.It’s quick and easy."
+      },
+      {
+        "level": "H2",
+        "text": "Request a quote"
+      },
+      {
+        "level": "H2",
+        "text": "USA & Canada.Your next destination."
+      },
+      {
+        "level": "H2",
+        "text": "A little clarity.A lot of possibility."
+      },
+      {
+        "level": "H2",
+        "text": "Let’s get to work."
+      }
+    ]
+  },
+  {
+    "width": 1280,
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 3672,
+    "images": [
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-1280.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 582.861083984375
+      },
+      {
+        "alt": "Open laptop beside books and a phone on a white desk",
+        "loaded": true,
+        "currentSrc": "/images/workshop-desk/84634dfec5-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 224.63336181640625
+      },
+      {
+        "alt": "Two closed silver laptops stacked on a light studio surface",
+        "loaded": true,
+        "currentSrc": "/images/hero-laptop/3906587bf0-768.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 624.6875
+      },
+      {
+        "alt": "Attendees gathered in a conference venue",
+        "loaded": true,
+        "currentSrc": "/images/conference/af77f69912-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 276
+      },
+      {
+        "alt": "Participants watching a presentation in a training room",
+        "loaded": true,
+        "currentSrc": "/images/training/aee1457b95-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 276
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 276
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 276
+      },
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-1280.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 1166
+      }
+    ],
+    "formTop": 1878.75,
+    "submitBottom": 2456.828125,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Laptop rentals for any occasion. USA & Canada."
+      },
+      {
+        "level": "H2",
+        "text": "Different needs.Same possibilities."
+      },
+      {
+        "level": "H3",
+        "text": "Events & conferences"
+      },
+      {
+        "level": "H3",
+        "text": "Training & workshops"
+      },
+      {
+        "level": "H3",
+        "text": "Temporary staff"
+      },
+      {
+        "level": "H3",
+        "text": "Remote teams"
+      },
+      {
+        "level": "H2",
+        "text": "You bring the plan.We’ll talk laptops."
+      },
+      {
+        "level": "H3",
+        "text": "1. Get a quote"
+      },
+      {
+        "level": "H3",
+        "text": "2. Find your setup"
+      },
+      {
+        "level": "H3",
+        "text": "3. Plan delivery"
+      },
+      {
+        "level": "H3",
+        "text": "4. You’re ready"
+      },
+      {
+        "level": "H2",
+        "text": "Get a quote.It’s quick and easy."
+      },
+      {
+        "level": "H2",
+        "text": "Request a quote"
+      },
+      {
+        "level": "H2",
+        "text": "USA & Canada.Your next destination."
+      },
+      {
+        "level": "H2",
+        "text": "A little clarity.A lot of possibility."
+      },
+      {
+        "level": "H2",
+        "text": "Let’s get to work."
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 3696,
+    "images": [
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-1280.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 582.861083984375
+      },
+      {
+        "alt": "Open laptop beside books and a phone on a white desk",
+        "loaded": true,
+        "currentSrc": "/images/workshop-desk/84634dfec5-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 224.63330078125
+      },
+      {
+        "alt": "Two closed silver laptops stacked on a light studio surface",
+        "loaded": true,
+        "currentSrc": "/images/hero-laptop/3906587bf0-768.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 624.6875
+      },
+      {
+        "alt": "Attendees gathered in a conference venue",
+        "loaded": true,
+        "currentSrc": "/images/conference/af77f69912-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 276
+      },
+      {
+        "alt": "Participants watching a presentation in a training room",
+        "loaded": true,
+        "currentSrc": "/images/training/aee1457b95-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 276
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 276
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 276
+      },
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-1280.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 1166
+      }
+    ],
+    "formTop": 1903.3125,
+    "submitBottom": 2481.390625,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Laptop rentals for any occasion. USA & Canada."
+      },
+      {
+        "level": "H2",
+        "text": "Different needs.Same possibilities."
+      },
+      {
+        "level": "H3",
+        "text": "Events & conferences"
+      },
+      {
+        "level": "H3",
+        "text": "Training & workshops"
+      },
+      {
+        "level": "H3",
+        "text": "Temporary staff"
+      },
+      {
+        "level": "H3",
+        "text": "Remote teams"
+      },
+      {
+        "level": "H2",
+        "text": "You bring the plan.We’ll talk laptops."
+      },
+      {
+        "level": "H3",
+        "text": "1. Get a quote"
+      },
+      {
+        "level": "H3",
+        "text": "2. Find your setup"
+      },
+      {
+        "level": "H3",
+        "text": "3. Plan delivery"
+      },
+      {
+        "level": "H3",
+        "text": "4. You’re ready"
+      },
+      {
+        "level": "H2",
+        "text": "Get a quote.It’s quick and easy."
+      },
+      {
+        "level": "H2",
+        "text": "Request a quote"
+      },
+      {
+        "level": "H2",
+        "text": "USA & Canada.Your next destination."
+      },
+      {
+        "level": "H2",
+        "text": "A little clarity.A lot of possibility."
+      },
+      {
+        "level": "H2",
+        "text": "Let’s get to work."
+      }
+    ]
+  }
+]

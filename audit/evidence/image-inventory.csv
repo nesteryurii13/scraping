@@ -1,0 +1,4 @@
+File,Section,Dimensions,Bytes,Format,Rendered size,Over budget,Alt text,Action
+src/app/favicon.ico,Browser favicon,48x48;32x32;16x16,15086,ICO,Browser controlled,No,N/A,Replace default Next favicon at source
+out/_next/static/media/favicon.117ezoe8m31dk.ico,Browser favicon,48x48;32x32;16x16,15086,ICO,Browser controlled,No,N/A,Replace default Next favicon at source
+out/favicon.ico,Browser favicon,48x48;32x32;16x16,15086,ICO,Browser controlled,No,N/A,Replace default Next favicon at source

@@ -1,0 +1,786 @@
+[
+  {
+    "width": 375,
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 8524,
+    "images": [
+      {
+        "alt": "Illustrative shared workspace with two silver laptops, plants and lime notebooks",
+        "loaded": true,
+        "currentSrc": "/images/generated-workspace/74e1056e8c-480.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 335
+      },
+      {
+        "alt": "Illustrative silver laptop beside a lime notebook in a sunlit ivory workspace",
+        "loaded": true,
+        "currentSrc": "/images/generated-everyday/2b450c6ffa-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 333
+      },
+      {
+        "alt": "Illustrative shared workspace with two silver laptops, plants and lime notebooks",
+        "loaded": true,
+        "currentSrc": "/images/generated-workspace/74e1056e8c-480.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 333
+      },
+      {
+        "alt": "Illustrative charcoal laptop with a lime abstract wallpaper on a dark desk",
+        "loaded": true,
+        "currentSrc": "/images/generated-project/61f26ed28f-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 333
+      },
+      {
+        "alt": "Attendees gathered in a conference venue",
+        "loaded": true,
+        "currentSrc": "/images/conference/af77f69912-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 335
+      },
+      {
+        "alt": "Participants watching a presentation in a training room",
+        "loaded": true,
+        "currentSrc": "/images/training/aee1457b95-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 335
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 335
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 335
+      },
+      {
+        "alt": "Laptop with code on its screen on a wooden work table",
+        "loaded": true,
+        "currentSrc": "/images/software-work/4b34f6f10e-480.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 316
+      },
+      {
+        "alt": "Silver laptop resting on a black upholstered chair",
+        "loaded": true,
+        "currentSrc": "/images/portable-laptop/29212beeaf-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 145.08349609375
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 247.422607421875
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 186.44290161132812
+      },
+      {
+        "alt": "Illustrative silver laptop beside a lime notebook in a sunlit ivory workspace",
+        "loaded": false,
+        "currentSrc": "/images/generated-everyday/2b450c6ffa-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 0
+      },
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-480.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 335
+      }
+    ],
+    "formTop": 578.296875,
+    "submitBottom": 1120.546875,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Great work.Starts here."
+      },
+      {
+        "level": "H2",
+        "text": "Make your next move."
+      },
+      {
+        "level": "H2",
+        "text": "Different needs.Same possibilities."
+      },
+      {
+        "level": "H3",
+        "text": "Everyday work"
+      },
+      {
+        "level": "H3",
+        "text": "Training & workshops"
+      },
+      {
+        "level": "H3",
+        "text": "Specialist projects"
+      },
+      {
+        "level": "H2",
+        "text": "Work happens everywhere.Make it happen."
+      },
+      {
+        "level": "H3",
+        "text": "Events & conferences"
+      },
+      {
+        "level": "H3",
+        "text": "Training & classrooms"
+      },
+      {
+        "level": "H3",
+        "text": "Projects & temp staff"
+      },
+      {
+        "level": "H3",
+        "text": "Remote teams"
+      },
+      {
+        "level": "H2",
+        "text": "You bring the plan.We’ll talk laptops."
+      },
+      {
+        "level": "H3",
+        "text": "Tell us your plan"
+      },
+      {
+        "level": "H3",
+        "text": "Find your setup"
+      },
+      {
+        "level": "H3",
+        "text": "Get ready to work"
+      },
+      {
+        "level": "H2",
+        "text": "USA. Canada.Your next stop."
+      },
+      {
+        "level": "H2",
+        "text": "A little clarity.A lot of possibility."
+      },
+      {
+        "level": "H2",
+        "text": "Big ideas.Let’s get to work."
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 5909,
+    "images": [
+      {
+        "alt": "Illustrative shared workspace with two silver laptops, plants and lime notebooks",
+        "loaded": true,
+        "currentSrc": "/images/generated-workspace/74e1056e8c-768.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 720
+      },
+      {
+        "alt": "Illustrative silver laptop beside a lime notebook in a sunlit ivory workspace",
+        "loaded": true,
+        "currentSrc": "/images/generated-everyday/2b450c6ffa-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 227.328125
+      },
+      {
+        "alt": "Illustrative shared workspace with two silver laptops, plants and lime notebooks",
+        "loaded": true,
+        "currentSrc": "/images/generated-workspace/74e1056e8c-768.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 227.328125
+      },
+      {
+        "alt": "Illustrative charcoal laptop with a lime abstract wallpaper on a dark desk",
+        "loaded": true,
+        "currentSrc": "/images/generated-project/61f26ed28f-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 227.328125
+      },
+      {
+        "alt": "Attendees gathered in a conference venue",
+        "loaded": true,
+        "currentSrc": "/images/conference/af77f69912-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 350
+      },
+      {
+        "alt": "Participants watching a presentation in a training room",
+        "loaded": true,
+        "currentSrc": "/images/training/aee1457b95-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 350
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 350
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 350
+      },
+      {
+        "alt": "Laptop with code on its screen on a wooden work table",
+        "loaded": true,
+        "currentSrc": "/images/software-work/4b34f6f10e-480.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 327.5
+      },
+      {
+        "alt": "Silver laptop resting on a black upholstered chair",
+        "loaded": true,
+        "currentSrc": "/images/portable-laptop/29212beeaf-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 144.22486877441406
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 256.8857727050781
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 189.54269409179688
+      },
+      {
+        "alt": "Illustrative silver laptop beside a lime notebook in a sunlit ivory workspace",
+        "loaded": true,
+        "currentSrc": "/images/generated-everyday/2b450c6ffa-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 252.50367736816406
+      },
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-768.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 720
+      }
+    ],
+    "formTop": 143,
+    "submitBottom": 709.640625,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Great work.Starts here."
+      },
+      {
+        "level": "H2",
+        "text": "Make your next move."
+      },
+      {
+        "level": "H2",
+        "text": "Different needs.Same possibilities."
+      },
+      {
+        "level": "H3",
+        "text": "Everyday work"
+      },
+      {
+        "level": "H3",
+        "text": "Training & workshops"
+      },
+      {
+        "level": "H3",
+        "text": "Specialist projects"
+      },
+      {
+        "level": "H2",
+        "text": "Work happens everywhere.Make it happen."
+      },
+      {
+        "level": "H3",
+        "text": "Events & conferences"
+      },
+      {
+        "level": "H3",
+        "text": "Training & classrooms"
+      },
+      {
+        "level": "H3",
+        "text": "Projects & temp staff"
+      },
+      {
+        "level": "H3",
+        "text": "Remote teams"
+      },
+      {
+        "level": "H2",
+        "text": "You bring the plan.We’ll talk laptops."
+      },
+      {
+        "level": "H3",
+        "text": "Tell us your plan"
+      },
+      {
+        "level": "H3",
+        "text": "Find your setup"
+      },
+      {
+        "level": "H3",
+        "text": "Get ready to work"
+      },
+      {
+        "level": "H2",
+        "text": "USA. Canada.Your next stop."
+      },
+      {
+        "level": "H2",
+        "text": "A little clarity.A lot of possibility."
+      },
+      {
+        "level": "H2",
+        "text": "Big ideas.Let’s get to work."
+      }
+    ]
+  },
+  {
+    "width": 1280,
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 6062,
+    "images": [
+      {
+        "alt": "Illustrative shared workspace with two silver laptops, plants and lime notebooks",
+        "loaded": true,
+        "currentSrc": "/images/generated-workspace/74e1056e8c-768.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 737.203125
+      },
+      {
+        "alt": "Illustrative silver laptop beside a lime notebook in a sunlit ivory workspace",
+        "loaded": true,
+        "currentSrc": "/images/generated-everyday/2b450c6ffa-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 392.65625
+      },
+      {
+        "alt": "Illustrative shared workspace with two silver laptops, plants and lime notebooks",
+        "loaded": true,
+        "currentSrc": "/images/generated-workspace/74e1056e8c-768.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 392.671875
+      },
+      {
+        "alt": "Illustrative charcoal laptop with a lime abstract wallpaper on a dark desk",
+        "loaded": true,
+        "currentSrc": "/images/generated-project/61f26ed28f-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 392.65625
+      },
+      {
+        "alt": "Attendees gathered in a conference venue",
+        "loaded": true,
+        "currentSrc": "/images/conference/af77f69912-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 435.171875
+      },
+      {
+        "alt": "Participants watching a presentation in a training room",
+        "loaded": true,
+        "currentSrc": "/images/training/aee1457b95-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 776.8125
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 378.40625
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 378.40625
+      },
+      {
+        "alt": "Laptop with code on its screen on a wooden work table",
+        "loaded": true,
+        "currentSrc": "/images/software-work/4b34f6f10e-768.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 539
+      },
+      {
+        "alt": "Silver laptop resting on a black upholstered chair",
+        "loaded": true,
+        "currentSrc": "/images/portable-laptop/29212beeaf-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 252.1756591796875
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 430.3359375
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 328.048095703125
+      },
+      {
+        "alt": "Illustrative silver laptop beside a lime notebook in a sunlit ivory workspace",
+        "loaded": true,
+        "currentSrc": "/images/generated-everyday/2b450c6ffa-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 252.50367736816406
+      },
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-1280.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 1232
+      }
+    ],
+    "formTop": 143,
+    "submitBottom": 728.03125,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Great work.Starts here."
+      },
+      {
+        "level": "H2",
+        "text": "Make your next move."
+      },
+      {
+        "level": "H2",
+        "text": "Different needs.Same possibilities."
+      },
+      {
+        "level": "H3",
+        "text": "Everyday work"
+      },
+      {
+        "level": "H3",
+        "text": "Training & workshops"
+      },
+      {
+        "level": "H3",
+        "text": "Specialist projects"
+      },
+      {
+        "level": "H2",
+        "text": "Work happens everywhere.Make it happen."
+      },
+      {
+        "level": "H3",
+        "text": "Events & conferences"
+      },
+      {
+        "level": "H3",
+        "text": "Training & classrooms"
+      },
+      {
+        "level": "H3",
+        "text": "Projects & temp staff"
+      },
+      {
+        "level": "H3",
+        "text": "Remote teams"
+      },
+      {
+        "level": "H2",
+        "text": "You bring the plan.We’ll talk laptops."
+      },
+      {
+        "level": "H3",
+        "text": "Tell us your plan"
+      },
+      {
+        "level": "H3",
+        "text": "Find your setup"
+      },
+      {
+        "level": "H3",
+        "text": "Get ready to work"
+      },
+      {
+        "level": "H2",
+        "text": "USA. Canada.Your next stop."
+      },
+      {
+        "level": "H2",
+        "text": "A little clarity.A lot of possibility."
+      },
+      {
+        "level": "H2",
+        "text": "Big ideas.Let’s get to work."
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 6158,
+    "images": [
+      {
+        "alt": "Illustrative shared workspace with two silver laptops, plants and lime notebooks",
+        "loaded": true,
+        "currentSrc": "/images/generated-workspace/74e1056e8c-768.avif",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "renderedWidth": 787.015625
+      },
+      {
+        "alt": "Illustrative silver laptop beside a lime notebook in a sunlit ivory workspace",
+        "loaded": true,
+        "currentSrc": "/images/generated-everyday/2b450c6ffa-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 419.328125
+      },
+      {
+        "alt": "Illustrative shared workspace with two silver laptops, plants and lime notebooks",
+        "loaded": true,
+        "currentSrc": "/images/generated-workspace/74e1056e8c-768.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 419.328125
+      },
+      {
+        "alt": "Illustrative charcoal laptop with a lime abstract wallpaper on a dark desk",
+        "loaded": true,
+        "currentSrc": "/images/generated-project/61f26ed28f-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 419.34375
+      },
+      {
+        "alt": "Attendees gathered in a conference venue",
+        "loaded": true,
+        "currentSrc": "/images/conference/af77f69912-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 464.375
+      },
+      {
+        "alt": "Participants watching a presentation in a training room",
+        "loaded": true,
+        "currentSrc": "/images/training/aee1457b95-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 827.609375
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 403.8125
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 403.796875
+      },
+      {
+        "alt": "Laptop with code on its screen on a wooden work table",
+        "loaded": true,
+        "currentSrc": "/images/software-work/4b34f6f10e-768.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 579
+      },
+      {
+        "alt": "Silver laptop resting on a black upholstered chair",
+        "loaded": true,
+        "currentSrc": "/images/portable-laptop/29212beeaf-400.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 271.076904296875
+      },
+      {
+        "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+        "loaded": true,
+        "currentSrc": "/images/office-workspace/4cabc7a476-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 463.20751953125
+      },
+      {
+        "alt": "Laptop displaying a video meeting on a home desk",
+        "loaded": true,
+        "currentSrc": "/images/remote-work/1fa29a7953-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 354.306640625
+      },
+      {
+        "alt": "Illustrative silver laptop beside a lime notebook in a sunlit ivory workspace",
+        "loaded": true,
+        "currentSrc": "/images/generated-everyday/2b450c6ffa-640.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 252.50369262695312
+      },
+      {
+        "alt": "Colleagues working together around laptops at a shared table",
+        "loaded": true,
+        "currentSrc": "/images/team-collaboration/9081831c41-1280.avif",
+        "loading": "lazy",
+        "fetchPriority": "auto",
+        "renderedWidth": 1312
+      }
+    ],
+    "formTop": 143,
+    "submitBottom": 728.03125,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Great work.Starts here."
+      },
+      {
+        "level": "H2",
+        "text": "Make your next move."
+      },
+      {
+        "level": "H2",
+        "text": "Different needs.Same possibilities."
+      },
+      {
+        "level": "H3",
+        "text": "Everyday work"
+      },
+      {
+        "level": "H3",
+        "text": "Training & workshops"
+      },
+      {
+        "level": "H3",
+        "text": "Specialist projects"
+      },
+      {
+        "level": "H2",
+        "text": "Work happens everywhere.Make it happen."
+      },
+      {
+        "level": "H3",
+        "text": "Events & conferences"
+      },
+      {
+        "level": "H3",
+        "text": "Training & classrooms"
+      },
+      {
+        "level": "H3",
+        "text": "Projects & temp staff"
+      },
+      {
+        "level": "H3",
+        "text": "Remote teams"
+      },
+      {
+        "level": "H2",
+        "text": "You bring the plan.We’ll talk laptops."
+      },
+      {
+        "level": "H3",
+        "text": "Tell us your plan"
+      },
+      {
+        "level": "H3",
+        "text": "Find your setup"
+      },
+      {
+        "level": "H3",
+        "text": "Get ready to work"
+      },
+      {
+        "level": "H2",
+        "text": "USA. Canada.Your next stop."
+      },
+      {
+        "level": "H2",
+        "text": "A little clarity.A lot of possibility."
+      },
+      {
+        "level": "H2",
+        "text": "Big ideas.Let’s get to work."
+      }
+    ]
+  }
+]

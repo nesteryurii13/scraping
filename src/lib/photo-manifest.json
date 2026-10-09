@@ -1,0 +1,191 @@
+{
+  "team-collaboration": {
+    "alt": "Colleagues working together around laptops at a shared table",
+    "ratio": 1.9,
+    "variants": [
+      {
+        "width": 480,
+        "height": 253,
+        "avif": "/images/team-collaboration/9081831c41-480.avif",
+        "webp": "/images/team-collaboration/9081831c41-480.webp",
+        "jpeg": "/images/team-collaboration/9081831c41-480.jpg"
+      },
+      {
+        "width": 768,
+        "height": 404,
+        "avif": "/images/team-collaboration/9081831c41-768.avif",
+        "webp": "/images/team-collaboration/9081831c41-768.webp",
+        "jpeg": "/images/team-collaboration/9081831c41-768.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 674,
+        "avif": "/images/team-collaboration/9081831c41-1280.avif",
+        "webp": "/images/team-collaboration/9081831c41-1280.webp",
+        "jpeg": "/images/team-collaboration/9081831c41-1280.jpg"
+      }
+    ]
+  },
+  "conference": {
+    "alt": "Attendees gathered in a conference venue",
+    "ratio": 1.2,
+    "variants": [
+      {
+        "width": 400,
+        "height": 333,
+        "avif": "/images/conference/af77f69912-400.avif",
+        "webp": "/images/conference/af77f69912-400.webp",
+        "jpeg": "/images/conference/af77f69912-400.jpg"
+      },
+      {
+        "width": 640,
+        "height": 533,
+        "avif": "/images/conference/af77f69912-640.avif",
+        "webp": "/images/conference/af77f69912-640.webp",
+        "jpeg": "/images/conference/af77f69912-640.jpg"
+      },
+      {
+        "width": 960,
+        "height": 800,
+        "avif": "/images/conference/af77f69912-960.avif",
+        "webp": "/images/conference/af77f69912-960.webp",
+        "jpeg": "/images/conference/af77f69912-960.jpg"
+      }
+    ]
+  },
+  "training": {
+    "alt": "Participants watching a presentation in a training room",
+    "ratio": 1.2,
+    "variants": [
+      {
+        "width": 400,
+        "height": 333,
+        "avif": "/images/training/aee1457b95-400.avif",
+        "webp": "/images/training/aee1457b95-400.webp",
+        "jpeg": "/images/training/aee1457b95-400.jpg"
+      },
+      {
+        "width": 640,
+        "height": 533,
+        "avif": "/images/training/aee1457b95-640.avif",
+        "webp": "/images/training/aee1457b95-640.webp",
+        "jpeg": "/images/training/aee1457b95-640.jpg"
+      },
+      {
+        "width": 960,
+        "height": 800,
+        "avif": "/images/training/aee1457b95-960.avif",
+        "webp": "/images/training/aee1457b95-960.webp",
+        "jpeg": "/images/training/aee1457b95-960.jpg"
+      }
+    ]
+  },
+  "office-workspace": {
+    "alt": "Laptop and mouse on a wooden desk beside a green office chair",
+    "ratio": 1.2,
+    "variants": [
+      {
+        "width": 400,
+        "height": 333,
+        "avif": "/images/office-workspace/4cabc7a476-400.avif",
+        "webp": "/images/office-workspace/4cabc7a476-400.webp",
+        "jpeg": "/images/office-workspace/4cabc7a476-400.jpg"
+      },
+      {
+        "width": 640,
+        "height": 533,
+        "avif": "/images/office-workspace/4cabc7a476-640.avif",
+        "webp": "/images/office-workspace/4cabc7a476-640.webp",
+        "jpeg": "/images/office-workspace/4cabc7a476-640.jpg"
+      },
+      {
+        "width": 960,
+        "height": 800,
+        "avif": "/images/office-workspace/4cabc7a476-960.avif",
+        "webp": "/images/office-workspace/4cabc7a476-960.webp",
+        "jpeg": "/images/office-workspace/4cabc7a476-960.jpg"
+      }
+    ]
+  },
+  "remote-work": {
+    "alt": "Laptop displaying a video meeting on a home desk",
+    "ratio": 1.2,
+    "variants": [
+      {
+        "width": 400,
+        "height": 333,
+        "avif": "/images/remote-work/1fa29a7953-400.avif",
+        "webp": "/images/remote-work/1fa29a7953-400.webp",
+        "jpeg": "/images/remote-work/1fa29a7953-400.jpg"
+      },
+      {
+        "width": 640,
+        "height": 533,
+        "avif": "/images/remote-work/1fa29a7953-640.avif",
+        "webp": "/images/remote-work/1fa29a7953-640.webp",
+        "jpeg": "/images/remote-work/1fa29a7953-640.jpg"
+      },
+      {
+        "width": 960,
+        "height": 800,
+        "avif": "/images/remote-work/1fa29a7953-960.avif",
+        "webp": "/images/remote-work/1fa29a7953-960.webp",
+        "jpeg": "/images/remote-work/1fa29a7953-960.jpg"
+      }
+    ]
+  },
+  "workshop-desk": {
+    "alt": "Open laptop beside books and a phone on a white desk",
+    "ratio": 1.5,
+    "variants": [
+      {
+        "width": 400,
+        "height": 267,
+        "avif": "/images/workshop-desk/84634dfec5-400.avif",
+        "webp": "/images/workshop-desk/84634dfec5-400.webp",
+        "jpeg": "/images/workshop-desk/84634dfec5-400.jpg"
+      },
+      {
+        "width": 640,
+        "height": 427,
+        "avif": "/images/workshop-desk/84634dfec5-640.avif",
+        "webp": "/images/workshop-desk/84634dfec5-640.webp",
+        "jpeg": "/images/workshop-desk/84634dfec5-640.jpg"
+      },
+      {
+        "width": 960,
+        "height": 640,
+        "avif": "/images/workshop-desk/84634dfec5-960.avif",
+        "webp": "/images/workshop-desk/84634dfec5-960.webp",
+        "jpeg": "/images/workshop-desk/84634dfec5-960.jpg"
+      }
+    ]
+  },
+  "hero-laptop": {
+    "alt": "Two closed silver laptops stacked on a light studio surface",
+    "ratio": 1.9,
+    "variants": [
+      {
+        "width": 480,
+        "height": 253,
+        "avif": "/images/hero-laptop/3906587bf0-480.avif",
+        "webp": "/images/hero-laptop/3906587bf0-480.webp",
+        "jpeg": "/images/hero-laptop/3906587bf0-480.jpg"
+      },
+      {
+        "width": 768,
+        "height": 404,
+        "avif": "/images/hero-laptop/3906587bf0-768.avif",
+        "webp": "/images/hero-laptop/3906587bf0-768.webp",
+        "jpeg": "/images/hero-laptop/3906587bf0-768.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 674,
+        "avif": "/images/hero-laptop/3906587bf0-1280.avif",
+        "webp": "/images/hero-laptop/3906587bf0-1280.webp",
+        "jpeg": "/images/hero-laptop/3906587bf0-1280.jpg"
+      }
+    ]
+  }
+}
